@@ -1,0 +1,25 @@
+[OPTIONS]
+Auto Index=Yes
+Compatibility=1.1 or later
+Compiled file=APO.chm
+Contents file=APO.hhc
+Index file=APO.hhk
+Default topic=HIDD_ROOT_DIALOG.HTM
+Display compile progress=No
+Full-text search=Yes
+Language=0x0409 Ó¢Óï(ÃÀ¹ú)
+
+
+[FILES]
+HIDD_ROOT_DIALOG.HTM
+
+[ALIAS]
+HIDD_APO_DIALOG = HIDD_ROOT_DIALOG.htm
+
+[MAP]
+#include HTMLDefines.h
+
+[TEXT POPUPS]
+HTMLDefines.h
+
+[INFOTYPES]

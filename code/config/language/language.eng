@@ -1,0 +1,6 @@
+[Language]
+Version=1
+Name=English
+Author=BitSoul Studio
+Remark=This is default language port by APO.
+ActionText=Shutdown;Restart;Log off;Lock;Hang up;Standby;Habernate;
